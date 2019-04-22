@@ -10,10 +10,10 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 template: oriental
 */
-@import url("/allmyrespect/wp-content/themes/oriental/style.css");
+@import url("/wp-content/themes/oriental/style.css");
 /* ========================================================================= Oriental Writing ========================================================================= */
 /* customized by pure-essence.net */
-html body { background: #feffef url(/allmyrespect/wp-content/themes/oriental-writing/images/bk.png) repeat; color: #694f10; font-family: "Source Sans Pro", Arial, Verdana, Helvetica, sans-serif; font-size: 16px; }
+html body { background: #feffef url(/wp-content/themes/oriental-writing/images/bk.png) repeat; color: #694f10; font-family: "Source Sans Pro", Arial, Verdana, Helvetica, sans-serif; font-size: 16px; }
 html body.infinite-scroll.neverending { overflow: hidden; }
 
 a { color: #7c7a02; }
@@ -27,13 +27,13 @@ button, input, select, textarea { word-wrap: break-word; }
 .entry-title, .entry-content, .entry-summary { word-wrap: break-word; }
 
 #page { background: none; position: relative; }
-#page:before { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/meiLeft.png); position: absolute; bottom: 0; left: -10px; z-index: 10; }
-#page:after { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/meiLowerRight.png); position: absolute; bottom: 0; right: -200px; }
+#page:before { content: url(/wp-content/themes/oriental-writing/images/meiLeft.png); position: absolute; bottom: 0; left: -10px; z-index: 10; }
+#page:after { content: url(/wp-content/themes/oriental-writing/images/meiLowerRight.png); position: absolute; bottom: 0; right: -200px; }
 
 #masthead { width: auto; margin: 0 0 0 200px; position: relative; padding-top: 50px; }
 #masthead:before, #masthead:after { position: absolute; }
-#masthead:before { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/meiTop.png); top: -100px; left: -280px; }
-#masthead:after { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/cloudsCranes.png); right: -200px; top: 0; }
+#masthead:before { content: url(/wp-content/themes/oriental-writing/images/meiTop.png); top: -100px; left: -280px; }
+#masthead:after { content: url(/wp-content/themes/oriental-writing/images/cloudsCranes.png); right: -200px; top: 0; }
 #masthead h1.site-title a { color: #000; font-family: 'Molle' !important; font-style: italic; font-weight: 400; }
 #masthead .site-description { font-family: "Satisfy", Garamond, Georgia, serif; }
 #masthead section { margin-left: 110px; padding: 1em; }
@@ -59,8 +59,8 @@ article.post { background: none; }
 
 #content { background-color: #f8efd3; background-image: none; position: relative; margin-top: 50px; }
 #content .site-navigation { font-family: "Satisfy", Garamond, Georgia, serif; line-height: 2; padding: 0 1em; }
-#content:before { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/paperTop.png); position: absolute; top: -60px; left: 0; }
-#content:after { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/paperBottom.png); position: absolute; bottom: -60px; left: 0; }
+#content:before { content: url(/wp-content/themes/oriental-writing/images/paperTop.png); position: absolute; top: -60px; left: 0; }
+#content:after { content: url(/wp-content/themes/oriental-writing/images/paperBottom.png); position: absolute; bottom: -60px; left: 0; }
 
 .page-template-page-nosidebar-php #primary, .attachment #primary, .error404 #primary { width: 627px; }
 
@@ -77,7 +77,7 @@ article.post { background: none; }
 
 .edit-link { float: right; }
 
-article:nth-of-type(odd) .entry-title:after { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/ducks.png); position: absolute; top: 20px; left: -120px; }
+article:nth-of-type(odd) .entry-title:after { content: url(/wp-content/themes/oriental-writing/images/ducks.png); position: absolute; top: 20px; left: -120px; }
 
 blockquote { background-color: rgba(253, 251, 219, 0.5); border: 0; }
 
@@ -117,7 +117,7 @@ h1.page-title { padding: 1em 0.5em 0; }
 
 #secondary { margin-left: 650px; padding-top: 230px; width: auto; position: relative; }
 #secondary a:hover { text-decoration: underline; }
-#secondary:after { content: url(/allmyrespect/wp-content/themes/oriental-writing/images/teaKettle.png); position: absolute; top: 0; left: 0; }
+#secondary:after { content: url(/wp-content/themes/oriental-writing/images/teaKettle.png); position: absolute; top: 0; left: 0; }
 #secondary aside { background: none; }
 #secondary h2 { background: none; font-family: "Satisfy", "Helvetica Neue", Helvetica Arial, "Lucida Grande", sans-serif; }
 
@@ -128,7 +128,7 @@ footer#colophon a { color: #000; }
 
 /* =Media Queries
 ----------------------------------------*/
-@media screen and (max-width: 1280px) { #page { background: url(/allmyrespect/wp-content/themes/oriental-writing/images/meiTop.png) 0 -100px no-repeat; margin-left: -50px; }
+@media screen and (max-width: 1280px) { #page { background: url(/wp-content/themes/oriental-writing/images/meiTop.png) 0 -100px no-repeat; margin-left: -50px; }
   #masthead:before { content: ''; }
   #nav-menu-wrapper { margin: 0 0 0 120px; } }
 @media screen and (max-width: 1106px) { #page { margin-left: -100px; }
