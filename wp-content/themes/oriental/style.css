@@ -147,34 +147,34 @@ a:hover, a:focus, a:active { color: #863f09; }
 
 /* =Menu
 ----------------------------------------------- */
-#nav-menu-wrapper { background: url("/wp-content/themes/oriental/images/searchBarBk.gif") repeat-x scroll 0 32px transparent; margin: 0 53px 13px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 64px; }
-#nav-menu-wrapper .main-navigation { background: url("/wp-content/themes/oriental/images/headerBarBk.png"); color: #841700; display: block; height: 32px; width: 100%; font-size: 90%; }
+#nav-menu-wrapper { background: url("/allmyrespect/wp-content/themes/oriental/images/searchBarBk.gif") repeat-x scroll 0 32px transparent; margin: 0 53px 13px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 64px; }
+#nav-menu-wrapper .main-navigation { background: url("/allmyrespect/wp-content/themes/oriental/images/headerBarBk.png"); color: #841700; display: block; height: 32px; width: 100%; font-size: 90%; }
 #nav-menu-wrapper .main-navigation a { color: #FAF6BB; text-decoration: none; display: block; padding: 8px 15px; height: 32px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-#nav-menu-wrapper .main-navigation a:hover { background-image: url("/wp-content/themes/oriental/images/headerBarBk.png"); text-decoration: underline; }
+#nav-menu-wrapper .main-navigation a:hover { background-image: url("/allmyrespect/wp-content/themes/oriental/images/headerBarBk.png"); text-decoration: underline; }
 #nav-menu-wrapper .main-navigation ul { margin: 0; padding: 0; list-style: none; }
 #nav-menu-wrapper .main-navigation ul li { line-height: normal; }
-#nav-menu-wrapper .main-navigation ul > li { display: block; float: left; position: relative; background: transparent url("/wp-content/themes/oriental/images/headerBarLiBk.gif") no-repeat scroll 0 8px; margin: 0; padding: 0; }
+#nav-menu-wrapper .main-navigation ul > li { display: block; float: left; position: relative; background: transparent url("/allmyrespect/wp-content/themes/oriental/images/headerBarLiBk.gif") no-repeat scroll 0 8px; margin: 0; padding: 0; }
 #nav-menu-wrapper .main-navigation ul > li:first-child { background: none; padding-left: 1em; }
-#nav-menu-wrapper .main-navigation ul > li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li.current-menu-item > a { background: url("/wp-content/themes/oriental/images/searchBarBk.gif") repeat-x scroll 0 0 transparent; color: #841700; font-weight: bold; text-decoration: none; }
+#nav-menu-wrapper .main-navigation ul > li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li.current-menu-item > a { background: url("/allmyrespect/wp-content/themes/oriental/images/searchBarBk.gif") repeat-x scroll 0 0 transparent; color: #841700; font-weight: bold; text-decoration: none; }
 #nav-menu-wrapper .main-navigation ul > li:hover > .sub-menu, #nav-menu-wrapper .main-navigation ul > li:hover > .children { left: 0; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu, #nav-menu-wrapper .main-navigation ul > li .children { position: absolute; right: -9999px; background-color: rgba(149, 46, 5, 0.8); width: 180px; z-index: 2; padding-bottom: .5em; overflow: visible; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu:before, #nav-menu-wrapper .main-navigation ul > li .children:before { content: '\00BB'; position: absolute; top: -24px; right: 10005px; color: #FAF6BB; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu li, #nav-menu-wrapper .main-navigation ul > li .children li { padding: 0; background: none; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu li .sub-menu:before, #nav-menu-wrapper .main-navigation ul > li .sub-menu li .children:before, #nav-menu-wrapper .main-navigation ul > li .children li .sub-menu:before, #nav-menu-wrapper .main-navigation ul > li .children li .children:before { right: 10010px; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu li:hover .sub-menu, #nav-menu-wrapper .main-navigation ul > li .sub-menu li:hover .children, #nav-menu-wrapper .main-navigation ul > li .children li:hover .sub-menu, #nav-menu-wrapper .main-navigation ul > li .children li:hover .children { top: 0; left: 180px; }
-#nav-menu-wrapper .main-navigation ul > li .sub-menu li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li .sub-menu li.current-menu-item > a, #nav-menu-wrapper .main-navigation ul > li .children li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li .children li.current-menu-item > a { background: url("/wp-content/themes/oriental/images/headerBarBk.png"); color: #FAF6BB; position: relative; }
+#nav-menu-wrapper .main-navigation ul > li .sub-menu li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li .sub-menu li.current-menu-item > a, #nav-menu-wrapper .main-navigation ul > li .children li.current_page_item > a, #nav-menu-wrapper .main-navigation ul > li .children li.current-menu-item > a { background: url("/allmyrespect/wp-content/themes/oriental/images/headerBarBk.png"); color: #FAF6BB; position: relative; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu li.current_page_item > a:before, #nav-menu-wrapper .main-navigation ul > li .sub-menu li.current-menu-item > a:before, #nav-menu-wrapper .main-navigation ul > li .children li.current_page_item > a:before, #nav-menu-wrapper .main-navigation ul > li .children li.current-menu-item > a:before { content: "\f147"; display: inline-block; -webkit-font-smoothing: antialiased; font-style: normal; line-height: 1; font-family: 'dashicons'; vertical-align: top; vertical-align: baseline; font-size: 15px; line-height: 15px; position: absolute; top: 50%; margin-top: -6px; left: 0; }
 #nav-menu-wrapper .main-navigation ul > li .sub-menu a, #nav-menu-wrapper .main-navigation ul > li .children a { width: 180px; height: auto; }
 
 /* =Content
 ----------------------------------------------- */
-#content { background: url("/wp-content/themes/oriental/images/yellowBarBk.gif") repeat-x scroll 0 0 #fefef6; color: #3A3A3A; padding-top: 24px; }
+#content { background: url("/allmyrespect/wp-content/themes/oriental/images/yellowBarBk.gif") repeat-x scroll 0 0 #fefef6; color: #3A3A3A; padding-top: 24px; }
 
 .archive #content, .search #content { padding-top: 0; }
 
 #content article h1.entry-title { font-size: 150%; font-weight: bold; }
 
-article.post { padding-bottom: 70px; background: url("/wp-content/themes/oriental/images/divider.gif") repeat-x center bottom transparent; }
+article.post { padding-bottom: 70px; background: url("/allmyrespect/wp-content/themes/oriental/images/divider.gif") repeat-x center bottom transparent; }
 
 .entry-meta { clear: both; font-size: 80%; text-align: right; opacity: .9; -webkit-opacity: .9; filter: opacity(0.9); }
 
@@ -274,16 +274,16 @@ embed, iframe, object { max-width: 100%; }
 #search-bar { clear: both; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 32px; padding: 4px; text-align: right; }
 #search-bar h2 { display: none; }
 
-#searchsubmit { background: url("/wp-content/themes/oriental/images/buttonBk.gif") repeat-x scroll 0 0 white; padding: .1em .5em; border-radius: 0; }
+#searchsubmit { background: url("/allmyrespect/wp-content/themes/oriental/images/buttonBk.gif") repeat-x scroll 0 0 white; padding: .1em .5em; border-radius: 0; }
 
 #s { border: 1px solid #BBBBBB; border-radius: 0; padding: 5px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 24px; }
 
 /* =Theme Styles
 ----------------------------------------------- */
 /* Main */
-body { background: #fab728 url(/wp-content/themes/oriental/images/bk.jpg) left top repeat-x; color: #000; overflow-x: hidden; }
+body { background: #fab728 url(/allmyrespect/wp-content/themes/oriental/images/bk.jpg) left top repeat-x; color: #000; overflow-x: hidden; }
 
-#page { background: url("/wp-content/themes/oriental/images/orientalBk.jpg") no-repeat scroll right top transparent; margin: 0 auto; width: 1106px; max-width: 100%; }
+#page { background: url("/allmyrespect/wp-content/themes/oriental/images/orientalBk.jpg") no-repeat scroll right top transparent; margin: 0 auto; width: 1106px; max-width: 100%; }
 
 /* Header */
 #masthead { width: 100%; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
@@ -292,7 +292,7 @@ body { background: #fab728 url(/wp-content/themes/oriental/images/bk.jpg) left t
 #masthead .site-description { color: #C46816; font-family: Garamond, Georgia, serif; font-size: 1.3em; }
 
 /* Posts */
-#main { background: url("/wp-content/themes/oriental/images/leftFlare.png") no-repeat scroll left 10px transparent; padding: 0 53px; width: 100%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+#main { background: url("/allmyrespect/wp-content/themes/oriental/images/leftFlare.png") no-repeat scroll left 10px transparent; padding: 0 53px; width: 100%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 #primary { background-color: #FEFEF6; border: 0; padding-bottom: 1em; width: 76%; float: right; }
 
@@ -356,7 +356,7 @@ header.entry-header { width: 100%; clear: both; display: inline-block; }
 #secondary aside ul { list-style: none; padding: .5em 0; margin: 0 1em; }
 #secondary aside ul li { list-style-type: square; padding-left: .3em; margin: 0 1em; }
 #secondary div, #secondary form { padding: 1em; }
-#secondary h2 { clear: none; background: url("/wp-content/themes/oriental/images/yellowBarBk.gif") repeat-x scroll 0 0 transparent; color: #3A3A3A; font-family: Garamond, Georgia, serif; font-size: 1.3em; margin: 0; padding: 2px 3px 3px 10px; font-weight: bold; line-height: 1em; }
+#secondary h2 { clear: none; background: url("/allmyrespect/wp-content/themes/oriental/images/yellowBarBk.gif") repeat-x scroll 0 0 transparent; color: #3A3A3A; font-family: Garamond, Georgia, serif; font-size: 1.3em; margin: 0; padding: 2px 3px 3px 10px; font-weight: bold; line-height: 1em; }
 #secondary img { max-width: 100%; height: auto; }
 #secondary a { text-decoration: none; color: #736F44; }
 #secondary a:hover { text-decoration: underline; color: #863f09; }
@@ -366,7 +366,7 @@ h2.widget-title, h2.widget-title a { border-bottom: 0px none; }
 a.rsswidget img { float: right; position: relative; top: 10px; }
 
 /* Footer */
-footer#colophon { background: url("/wp-content/themes/oriental/images/footerBk.gif") no-repeat scroll 80px top transparent; clear: both; color: #A66117; font-family: Garamond, Georgia, serif; font-size: 1.1em; height: 108px; margin: 0 53px; }
+footer#colophon { background: url("/allmyrespect/wp-content/themes/oriental/images/footerBk.gif") no-repeat scroll 80px top transparent; clear: both; color: #A66117; font-family: Garamond, Georgia, serif; font-size: 1.1em; height: 108px; margin: 0 53px; }
 footer a { color: #A66117; }
 footer a#top { font-size: 0; }
 footer a#top:before { content: "\f343"; display: inline-block; -webkit-font-smoothing: antialiased; font-style: normal; line-height: 1; font-family: 'dashicons'; vertical-align: top; font-size: 25px; line-height: 32px; vertical-align: top; }
@@ -374,7 +374,7 @@ footer a#top:before { content: "\f343"; display: inline-block; -webkit-font-smoo
 .site-info { text-align: right; line-height: 1.5em; margin: 0; padding: 0.9em; }
 
 /* Comments */
-#comments { background: url("/wp-content/themes/oriental/images/commentBottomBk.gif") repeat-x center bottom, url("/wp-content/themes/oriental/images/commentBk.gif") repeat-x center top; background-color: #DFD797; padding: 39px 0; }
+#comments { background: url("/allmyrespect/wp-content/themes/oriental/images/commentBottomBk.gif") repeat-x center bottom, url("/allmyrespect/wp-content/themes/oriental/images/commentBk.gif") repeat-x center top; background-color: #DFD797; padding: 39px 0; }
 #comments .comments-title { padding: 1em 1em 0 1em; }
 #comments .comments-title, #comments #reply-title { font-family: Signika, Garamond, Georgia, serif; color: #fff; }
 #comments .comments-title:after, #comments #reply-title:after { content: "\f101"; display: inline-block; -webkit-font-smoothing: antialiased; font-style: normal; line-height: 1; font-family: 'dashicons'; vertical-align: top; vertical-align: middle; }

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Personal Examples &#8211; All My Respect</title>
-	<atom:link href="/category/personal/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/allmyrespect/category/personal/feed/" rel="self" type="application/rss+xml" />
+	<link>/allmyrespect/</link>
 	<description>dedicated to the man who deserves all my respect</description>
 	<lastBuildDate>
 	Mon, 22 Apr 2019 03:27:30 +0000	</lastBuildDate>
@@ -22,13 +22,13 @@
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
 		<title>Dedication</title>
-		<link>/dedication/</link>
+		<link>/allmyrespect/dedication/</link>
 				<pubDate>Fri, 01 Mar 2013 14:21:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Personal Examples]]></category>
 
 		<guid isPermaLink="false">http://www.allmyrespect.com/?p=107</guid>
-				<description><![CDATA[I respect your dedication to friends and family. When the relationship has struggles you don&#8217;t just throw it away. I admire your dedication to work. Doing things right and putting in the extra effort even when people may not notice. I appreciate your dedication to living out your beliefs. I value your dedication to us, <a href="/dedication/">Continue reading &#8594;</a>]]></description>
+				<description><![CDATA[I respect your dedication to friends and family. When the relationship has struggles you don&#8217;t just throw it away. I admire your dedication to work. Doing things right and putting in the extra effort even when people may not notice. I appreciate your dedication to living out your beliefs. I value your dedication to us, <a href="/allmyrespect/dedication/">Continue reading &#8594;</a>]]></description>
 								<content:encoded><![CDATA[<p>I respect your <strong>dedication</strong> to friends and family. When the relationship has struggles you don&#8217;t just throw it away.</p>
 <p>I admire your <strong>dedication</strong> to work. Doing things right and putting in the extra effort even when people may not notice. </p>
 <p>I appreciate your <strong>dedication</strong> to living out your beliefs.</p>
@@ -37,7 +37,7 @@
 										</item>
 		<item>
 		<title>Beyond Computers&#8230; Cars too!</title>
-		<link>/beyond-computers-cars-too/</link>
+		<link>/allmyrespect/beyond-computers-cars-too/</link>
 				<pubDate>Wed, 07 Jul 2010 19:06:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Personal Examples]]></category>
@@ -54,7 +54,7 @@
 										</item>
 		<item>
 		<title>Sharing my Hobbies</title>
-		<link>/sharing-my-hobbies/</link>
+		<link>/allmyrespect/sharing-my-hobbies/</link>
 				<pubDate>Tue, 04 Nov 2008 12:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Personal Examples]]></category>
@@ -69,7 +69,7 @@
 										</item>
 		<item>
 		<title>dedication to work</title>
-		<link>/dedication-to-work/</link>
+		<link>/allmyrespect/dedication-to-work/</link>
 				<pubDate>Wed, 06 Aug 2008 11:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Personal Examples]]></category>
